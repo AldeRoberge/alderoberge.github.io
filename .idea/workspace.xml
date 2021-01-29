@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f0249b2-a310-4a01-bfd1-a0deaea126da" name="Default Changelist" comment="">
+    <list default="true" id="1fe9dbab-a29f-4dea-9acd-2054eb44967e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Portfolio/content/cv.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/theme/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/theme/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portfolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Portfolio/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1n7SLqSwcXpAYVwRjr1PRSAhtx3" />
+  <component name="ProjectId" id="1nj4ckhLZ33nEAHipGh5wSabCvW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -41,35 +42,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Portfolio/content" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Portfolio\content" />
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Portfolio\images" />
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Templates\html5up-hyperspace\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\rotmg\OneDrive\Documents\GitHub\alderoberge.github.io\img" />
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Portfolio\images\software" />
+      <recent name="C:\Users\rotmg\Desktop\Portfolio\Templates\assets\sass2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f0249b2-a310-4a01-bfd1-a0deaea126da" name="Default Changelist" comment="" />
-      <created>1555093679864</created>
+      <changelist id="1fe9dbab-a29f-4dea-9acd-2054eb44967e" name="Default Changelist" comment="" />
+      <created>1611890248085</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1555093679864</updated>
-      <workItem from="1555093681064" duration="1983000" />
-      <workItem from="1555193023487" duration="601000" />
-      <workItem from="1610739587022" duration="1219000" />
-      <workItem from="1611869058087" duration="2581000" />
+      <updated>1611890248085</updated>
+      <workItem from="1611890249149" duration="12727000" />
+      <workItem from="1611903760633" duration="205000" />
     </task>
     <servers />
   </component>
@@ -88,30 +87,29 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1611869459965">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611869459965" />
-    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1611872990058">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611872990058" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="702" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611890790200">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611890790200" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611899168785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611899168785" />
+    <state x="629" y="298" key="EditFileWatcherDialog" timestamp="1611897853154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611897853154" />
+    <state x="667" y="253" width="639" height="592" key="find.popup" timestamp="1611903167963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="639" height="592" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611903167963" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611897617534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611897617534" />
   </component>
 </project>
