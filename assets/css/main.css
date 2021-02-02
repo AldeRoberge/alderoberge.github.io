@@ -1,5 +1,26 @@
 
 
+.important {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.container3 {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.container3 div {
+    width: 100%;
+    padding: 5px;
+
+}
+
+.imagefit {
+    min-width: 10%;
+    height: auto;
+}
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -180,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #ffffff;
     font-weight: bold;
     line-height: 1.5;
-    margin: 0 0 0.5em 0;
+    margin: 0 0 0 0;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
