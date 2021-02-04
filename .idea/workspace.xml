@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1fe9dbab-a29f-4dea-9acd-2054eb44967e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +72,7 @@
       <workItem from="1612243245608" duration="22000" />
       <workItem from="1612285710122" duration="4625000" />
       <workItem from="1612332774253" duration="132000" />
+      <workItem from="1612380461342" duration="1943000" />
     </task>
     <servers />
   </component>
@@ -106,10 +107,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1611897853154" />
-    <state x="667" y="253" width="639" height="592" key="find.popup" timestamp="1612288575207">
+    <state x="667" y="253" width="639" height="592" key="find.popup" timestamp="1612381795508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="253" width="639" height="592" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1612288575207" />
+    <state x="667" y="253" width="639" height="592" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1612381795508" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612332884960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
