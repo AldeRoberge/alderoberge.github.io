@@ -111,7 +111,7 @@ console.log("quand t'en as cinq milliards dans l'ciel!");
             $bg = document.createElement('div');
             $bg.style.backgroundImage = 'url("' + k + '")';
             $bg.style.backgroundPosition = settings.images[k];
-            $bg.style.opacity = "25%";
+            
 
             $wrapper.appendChild($bg);
 
