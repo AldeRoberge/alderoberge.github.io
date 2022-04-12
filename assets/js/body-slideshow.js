@@ -3,8 +3,9 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+console.log("As-tu besoin d'un cinq-étoiles,");
+console.log("quand t'en as cinq milliards dans l'ciel!");
 
-console.log("Yeah!");
 
 (function () {
 
@@ -91,6 +92,7 @@ console.log("Yeah!");
             // Delay.
             delay: 6000
 
+
         };
 
         // Vars.
@@ -109,6 +111,8 @@ console.log("Yeah!");
             $bg = document.createElement('div');
             $bg.style.backgroundImage = 'url("' + k + '")';
             $bg.style.backgroundPosition = settings.images[k];
+            $bg.style.opacity = "25%";
+
             $wrapper.appendChild($bg);
 
             // Add it to array.
