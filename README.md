@@ -1,19 +1,21 @@
+<!-- lang -->**Français** | [English](README.en.md)
+
 # Alexandre Demers-Roberge / Portfolio
- New portfolio for my creative work.
- Build upon a simple HTML template to showcase my HTML and CSS skills.
+ Nouveau portfolio pour mon travail créatif.
+ Construit à partir d'un modèle HTML simple afin de présenter mes compétences en HTML et en CSS.
 
- ## Details
+ ## Détails
 
-* **Source code** : https://github.com/AldeRoberge/alderoberge.github.io
-* **Webpage** : https://alderoberge.github.io/
+* **Code source** : https://github.com/AldeRoberge/alderoberge.github.io
+* **Page Web** : https://alderoberge.github.io/
 
- ## Special thanks
+ ## Remerciements spéciaux
 
-* **HTML5 Up** for the HTML templates,
-* **Mathieu Perreault** for the course on portfolio building.
+* **HTML5 Up** pour les modèles HTML,
+* **Mathieu Perreault** pour le cours sur la création de portfolio.
 
 
-### Hi there 👋
+### Bonjour 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AldeRoberge&count_private=true&show_icons=true" width="470px" />
